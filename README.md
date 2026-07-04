@@ -7,11 +7,15 @@
   </a>
 </div>
 
-I build software, workflows, and small tools that make complicated work easier to reason about.
+> Make old tools useful again. Keep new tools understandable.
 
-我喜欢把复杂问题拆清楚，做成能长期使用的系统、工具和文字。
+## About
 
-## Now
+- I build software, workflows, and small tools that make complicated work easier to reason about.
+- 我喜欢把复杂问题拆清楚，做成能长期使用的系统、工具和文字。
+- I write and work in both Chinese and English.
+
+## Current Work
 
 - Using AI to bring old tools I care about back onto Apple Silicon, including QSanguosha and older Manchu dictionary software.
 - Contributing to Obsidian plugins so I use my own knowledge base a little more than my agents do.
@@ -22,7 +26,3 @@ I build software, workflows, and small tools that make complicated work easier t
 - Personal site: [tzheng.us](https://tzheng.us) rebuilding
 - GitHub: [@tzhengus](https://github.com/tzhengus)
 - LinkedIn: [tianzheng](https://www.linkedin.com/in/tianzheng)
-
-## 中文
-
-这里先作为我的公开入口。旧博客和中英文个人站会慢慢整理，不再按旧的多 repo 结构维护。
