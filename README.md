@@ -1,10 +1,5 @@
 <div align="center">
-  <a href="https://commit-history.com/tzhengus">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/tzhengus?theme=dark" />
-      <img alt="tzhengus's commit history" src="https://commit-history.com/embed/tzhengus" />
-    </picture>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tzhengus&theme=nord_bright" width="100%">
 </div>
 
 > Make old tools useful again. Keep new tools understandable.
@@ -26,3 +21,12 @@
 - Personal site: [tzheng.us](https://tzheng.us) rebuilding
 - GitHub: [@tzhengus](https://github.com/tzhengus)
 - LinkedIn: [tianzheng](https://www.linkedin.com/in/tianzheng)
+
+## Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tzhengus&theme=nord_bright" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tzhengus&theme=nord_bright" height="180">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tzhengus&theme=nord-dark&hide_border=true" height="180">
+</div>
