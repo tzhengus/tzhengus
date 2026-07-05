@@ -22,6 +22,14 @@
 - GitHub: [@tzhengus](https://github.com/tzhengus)
 - LinkedIn: [tianzheng](https://www.linkedin.com/in/tianzheng)
 
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tzhengus/tzhengus/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tzhengus/tzhengus/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/tzhengus/tzhengus/output/github-snake.svg">
+</picture>
+
 ## Stats
 
 <div align="center">
@@ -30,11 +38,3 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tzhengus&theme=nord-dark&hide_border=true" height="180">
 </div>
-
-## Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tzhengus/tzhengus/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tzhengus/tzhengus/output/github-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/tzhengus/tzhengus/output/github-snake.svg">
-</picture>
