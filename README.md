@@ -35,6 +35,4 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tzhengus&theme=nord_bright" height="180">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tzhengus&theme=nord_bright" height="180">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tzhengus&theme=nord-dark&hide_border=true" height="180">
 </div>
